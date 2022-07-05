@@ -1,0 +1,28 @@
+.name{
+   color: Orange; 
+}
+#get-me
+{
+  background-color:Orange;
+  colour:white;
+  font-weight:700;
+  text-decoration:none;
+  padding: 10px,40px;
+}
+body
+{
+  font-family: 'Poppins', sans-serif;
+  font-size: 50px;
+}
+section
+{
+  display: flex;
+}
+.half-width
+{
+  width:50%;
+}
+. half-width img
+{
+  width: 100%;
+}
